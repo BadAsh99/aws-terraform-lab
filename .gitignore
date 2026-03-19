@@ -1,0 +1,17 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+.terraform.lock.hcl
+*.pem
+*.key
+*.pub
+*_creds.json
+*service_account*.json
+.env
+.venv/
+venv/
+aws/
+awscli2.zip
+__pycache__/
+*.pyc
